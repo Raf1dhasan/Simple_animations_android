@@ -17,9 +17,6 @@ The **Simple Animations Android** project was created to:
 - **Customizable Animations**:
   - Modify animation properties such as duration and speed.
 
-## Screenshots
-### Animation in Action
-![Battery Animation](screenshot-animation.png)
 
 
 ## Technologies Used
